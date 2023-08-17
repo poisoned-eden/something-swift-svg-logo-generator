@@ -1,31 +1,32 @@
 {
-  "name": "something-swift-svg-logo-generator",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "directories": {
-    "example": "examples",
-    "lib": "lib"
-  },
-  "scripts": {
-    "test": "jest",
-    "start": "node index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/poisoned-eden/something-swift-svg-logo-generator.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/poisoned-eden/something-swift-svg-logo-generator/issues"
-  },
-  "homepage": "https://github.com/poisoned-eden/something-swift-svg-logo-generator#readme",
-  "dependencies": {
-    "inquirer": "^8.2.4"
-  },
-  "devDependencies": {
-    "jest": "^29.5.0"
-  }
+	"name": "something-swift-svg-logo-generator",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"directories": {
+		"example": "examples",
+		"lib": "lib"
+	},
+	"scripts": {
+		"test": "jest",
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/poisoned-eden/something-swift-svg-logo-generator.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/poisoned-eden/something-swift-svg-logo-generator/issues"
+	},
+	"homepage": "https://github.com/poisoned-eden/something-swift-svg-logo-generator#readme",
+	"dependencies": {
+		"inquirer": "^8.2.4"
+	},
+	"devDependencies": {
+		"jest": "^29.5.0",
+		"prettier": "^3.0.1"
+	}
 }
